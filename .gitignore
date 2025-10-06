@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.Python
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+
+# Database
+*.db
+
+# Environment
+.env
+
+# IDE
+.vscode/
+
+# Models (too large for GitHub)
+models/*.pt
+
+# Node modules
+frontend/node_modules/
+frontend/dist/
+
+# Test files
+test_*.py
